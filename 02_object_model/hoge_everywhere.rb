@@ -6,3 +6,9 @@
 # - Class
 # - Hash
 # - TrueClass
+
+class Object
+  def hoge
+    Hoge::Hoge
+  end
+end
