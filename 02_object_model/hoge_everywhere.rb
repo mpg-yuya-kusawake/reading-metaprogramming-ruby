@@ -9,6 +9,6 @@
 
 class Object
   def hoge
-    Hoge::Hoge
+    "hoge"
   end
 end
